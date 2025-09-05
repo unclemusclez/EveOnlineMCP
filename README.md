@@ -122,4 +122,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-For more details on EVE Online ESI, visit the [official documentation](https://esi.evetech.net/ui). For FastMCP, refer to [FastMCP Docs](https://fastmcp.cloud/docs).
+For more details on EVE Online ESI, visit the [official documentation](https://developers.eveonline.com/api-explorer). For FastMCP, refer to [FastMCP Docs](https://fastmcp.cloud/docs).
