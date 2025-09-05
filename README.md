@@ -1,8 +1,8 @@
-# ESI MCP Server
+# Eve Online ESI MCP Server
 
 ## Overview
 
-This project implements a local MCP (Microservices Communication Protocol) server for accessing the EVE Online ESI (EVE Swagger Interface) API. It uses the FastMCP library to create a proxy server based on the ESI OpenAPI specification, with built-in support for OAuth authentication via EVE Online's SSO. The server handles multiple characters, stores authentication tokens securely in a SQLite database, and automatically refreshes expired tokens. It's designed for developers and EVE Online enthusiasts who need programmatic access to ESI endpoints in a secure, multi-character setup.
+This project implements a local MCP (Model Context Protocol) server for accessing the EVE Online ESI (EVE Swagger Interface) API. It uses the FastMCP library to create a proxy server based on the ESI OpenAPI specification, with built-in support for OAuth authentication via EVE Online's SSO. The server handles multiple characters, stores authentication tokens securely in a SQLite database, and automatically refreshes expired tokens. It's designed for developers and EVE Online enthusiasts who need programmatic access to ESI endpoints in a secure, multi-character setup.
 
 Key technologies:
 - Python 3.8+
