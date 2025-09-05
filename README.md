@@ -33,13 +33,13 @@ Key technologies:
 
 2. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/esi-mcp-server.git
-   cd esi-mcp-server
+   git clone https://github.com/unclemusclez/EveOnlineMCP.git
+   cd EveOnlineMCP
    ```
 
 3. **Run the Script**:
    ```
-   python esi_mcp_server.py
+   python esi.py
    ```
    This starts the MCP server in stdio transport mode. For other transports (e.g., HTTP), modify `mcp.run(transport="stdio")` accordingly.
 
